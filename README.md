@@ -22,7 +22,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 ```javascript
 const rohan = {
@@ -49,15 +49,15 @@ const rohan = {
     "CI/CD with Git + Docker"
   ],
 
-  openTo: "Full Stack or Mobile Developer roles 🚀"
+  openTo: "Full Stack or Mobile Developer roles "
 };
 ```
 
 ---
 
-## 🏆 Key Achievements
+##  Key Achievements
 
-| 🚀 Metric | 📊 Impact |
+|  Metric |  Impact |
 |-----------|-----------|
 | Mobile App | Shipped to **iOS & Android** — passed App Store on **1st submission** |
 | Production Bugs | Resolved **15+ critical bugs** within **48-hour SLA** |
@@ -68,7 +68,7 @@ const rohan = {
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -103,51 +103,51 @@ const rohan = {
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 📱 Festive Reader — Live on iOS & Android
+###  Festive Reader — Live on iOS & Android
 > *React Native · Node.js · Shopify Storefront & Admin APIs · JWT · 3-Tier RBAC*
 
 [![Play Store](https://img.shields.io/badge/▶_Google_Play-Download-414141?style=flat-square&logo=google-play)](https://play.google.com/store/apps/details?id=com.hq.festivehwapp)
 [![App Store](https://img.shields.io/badge/🍎_App_Store-Download-0D96F6?style=flat-square&logo=app-store)](https://apps.apple.com/in/app/festive-reader/id6753059563)
 
-- 📦 Cross-platform reading app integrated with Shopify — serving **real paying customers**
-- ⚡ 1-click login for Shopify web users + entitlement engine that auto-unlocks books for **100% of verified buyers**
-- 🔄 **100% real-time sync** of registrations, orders & entitlements — zero manual fulfillment
-- ✅ Passed Apple App Store review on **first submission** — zero rejections, zero post-launch issues
-- ⚙️ 3-level RBAC admin panel managing **50+ books** and multiple pricing tiers
-- 📉 API response time cut by **~35%** via query optimization
+-  Cross-platform reading app integrated with Shopify — serving **real paying customers**
+-  1-click login for Shopify web users + entitlement engine that auto-unlocks books for **100% of verified buyers**
+-  **100% real-time sync** of registrations, orders & entitlements — zero manual fulfillment
+-  Passed Apple App Store review on **first submission** — zero rejections, zero post-launch issues
+-  3-level RBAC admin panel managing **50+ books** and multiple pricing tiers
+-  API response time cut by **~35%** via query optimization
 
 ---
 
-### 🏥 Arshi Skin & Hair Clinic — Healthcare Super App *(In Development)*
+###  Arshi Skin & Hair Clinic — Healthcare Super App *(In Development)*
 > *React Native · Node.js · Express.js · MongoDB · Microservices*
 
-- 🏗️ Full-scale app combining **doctor appointment booking + pharmacy e-commerce** on iOS & Android
-- ⚙️ 5 independent microservices: auth · prescriptions · profiles · notifications · orders
-- 💊 Pharmacy module: product catalog, cart, order management + live payment gateway
-- 🎯 Targeting both **App Store & Play Store**
+-  Full-scale app combining **doctor appointment booking + pharmacy e-commerce** on iOS & Android
+-  5 independent microservices: auth · prescriptions · profiles · notifications · orders
+-  Pharmacy module: product catalog, cart, order management + live payment gateway
+-  Targeting both **App Store & Play Store**
 
 ---
 
-### 🎓 Kalakakshaaha — Tutor Discovery Platform *(Live)*
-> *React · PHP · MySQL · REST APIs* | 🌐 [kalakakshaaha.com](https://kalakakshaaha.com)
+###  Kalakakshaaha — Tutor Discovery Platform *(Live)*
+> *React · PHP · MySQL · REST APIs* |  [kalakakshaaha.com](https://kalakakshaaha.com)
 
-- 🌍 Live platform connecting students with tutors across **10+ subjects** and multiple cities
-- 🔍 8+ REST API endpoints with 5-parameter filtering — sub-second response on **1,000+ records**
-- 🔒 JWT auth + input validation — protected against SQL injection and unauthorized access
-
----
-
-### 🌾 Eldorado Agritech — Agricultural Web Platform *(Live)*
-> *React · Node.js · REST APIs* | 🌐 [eldoradoagritech.com](https://eldoradoagritech.com)
-
-- 🚜 Production platform for Srikar Seeds — online product discovery + catalog management
-- 🛠️ REST API backend + admin system for inventory control and customer-facing content
+- Live platform connecting students with tutors across **10+ subjects** and multiple cities
+-  8+ REST API endpoints with 5-parameter filtering — sub-second response on **1,000+ records**
+-  JWT auth + input validation — protected against SQL injection and unauthorized access
 
 ---
 
-## 📊 GitHub Stats
+###  Eldorado Agritech — Agricultural Web Platform *(Live)*
+> *React · Node.js · REST APIs* |  [eldoradoagritech.com](https://eldoradoagritech.com)
+
+-  Production platform for Srikar Seeds — online product discovery + catalog management
+-  REST API backend + admin system for inventory control and customer-facing content
+
+---
+
+##  GitHub Stats
 
 <div align="center">
 
@@ -164,13 +164,13 @@ const rohan = {
 
 ---
 
-## 📈 Contribution Graph
+##  Contribution Graph
 
 [![Rohan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Airrobo&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-## 🎓 Education
+##  Education
 
 **B.E. — Electronics & Communication Engineering**
 Nitte Meenakshi Institute of Technology, Bengaluru | Dec 2020 – Jun 2024
@@ -181,7 +181,7 @@ Nitte Meenakshi Institute of Technology, Bengaluru | Dec 2020 – Jun 2024
 
 <div align="center">
 
-### 💬 Let's Build Something That Ships.
+### Let's Build Something That Ships.
 
 *"I don't just write code — I ship products that real users pay for."*
 
